@@ -14,13 +14,13 @@
   "license": "ISC",
   "homepage": "https://github.com/marko-js-samples/widget-bind",
   "dependencies": {
-    "browser-refresh-taglib": "^1.0.0",
+    "browser-refresh-taglib": "^1.0.4",
     "express": "^4.4.1",
     "jquery": "^2.1.1",
-    "lasso": "^1.10.1",
-    "lasso-marko": "^2.0.4",
-    "marko": "^2.7.8",
-    "marko-widgets": "^4.3.1",
+    "lasso": "^2.1.5",
+    "lasso-marko": "^2.0.7",
+    "marko": "^3.0.3",
+    "marko-widgets": "^6.0.0",
     "serve-static": "^1.2.1"
   }
 }
